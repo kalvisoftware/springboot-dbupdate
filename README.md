@@ -1,3 +1,0 @@
-# publiclaravel10
-
-test
